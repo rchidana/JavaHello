@@ -4,6 +4,7 @@ public class Hello {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World");
 		System.out.println("I am in Master Branch!!!");
+System.out.println("Triggering a new job Automatically!!!");
     }
 
 }
